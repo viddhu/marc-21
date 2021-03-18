@@ -14,6 +14,9 @@ public class Company {
 	public void adr() {
 		System.out.println("This is greenstech");
 	}
+	public void extra() {
+		
+	}
 		public static void main(String[] args) {
 		Company m = add();
 		m.adr();
